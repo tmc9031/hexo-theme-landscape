@@ -9,6 +9,10 @@ rss: /atom.xml
 excerpt_link: Read More
 fancybox: true
 
+auto_excerpt:
+  enable: true
+  length: 100
+
 # Sidebar
 sidebar: right
 widgets:
